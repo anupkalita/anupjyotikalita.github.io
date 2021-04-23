@@ -139,10 +139,12 @@ form label{
 #carousel-section h1{
     letter-spacing: 0.2rem;
     text-align: center;
+    margin-top: 2rem;
 }
 
 #carousel-section p{
     text-align: center;
+    margin-bottom: 2rem;
 }
 
 #carousel-section img{
